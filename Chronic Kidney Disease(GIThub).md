@@ -8,7 +8,7 @@ import seaborn as sns
 
 
 ```python
-path= '/Users/shubpuri/Downloads/Health care/Chronic Kidney Disease (Python)/Chronic Kidney Disease Dataset.xls'
+path= '/Users/shubpuri/Downloads/Health care/Chronic Kidney Disease (Python)/xyz.xls'
 ```
 
 
